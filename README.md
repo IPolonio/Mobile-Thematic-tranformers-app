@@ -1,6 +1,6 @@
 # tareatematica
 
-A new Flutter project.
+Is just a little homework with flutter.
 
 ## Getting Started
 
